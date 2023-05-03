@@ -1,0 +1,15 @@
+/Users/eagboka/Documents/GitHub/CSharpTableau/bin/Debug/net7.0/CSharpTableau
+/Users/eagboka/Documents/GitHub/CSharpTableau/bin/Debug/net7.0/CSharpTableau.deps.json
+/Users/eagboka/Documents/GitHub/CSharpTableau/bin/Debug/net7.0/CSharpTableau.runtimeconfig.json
+/Users/eagboka/Documents/GitHub/CSharpTableau/bin/Debug/net7.0/CSharpTableau.dll
+/Users/eagboka/Documents/GitHub/CSharpTableau/bin/Debug/net7.0/CSharpTableau.pdb
+/Users/eagboka/Documents/GitHub/CSharpTableau/obj/Debug/net7.0/CSharpTableau.csproj.AssemblyReference.cache
+/Users/eagboka/Documents/GitHub/CSharpTableau/obj/Debug/net7.0/CSharpTableau.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eagboka/Documents/GitHub/CSharpTableau/obj/Debug/net7.0/CSharpTableau.AssemblyInfoInputs.cache
+/Users/eagboka/Documents/GitHub/CSharpTableau/obj/Debug/net7.0/CSharpTableau.AssemblyInfo.cs
+/Users/eagboka/Documents/GitHub/CSharpTableau/obj/Debug/net7.0/CSharpTableau.csproj.CoreCompileInputs.cache
+/Users/eagboka/Documents/GitHub/CSharpTableau/obj/Debug/net7.0/CSharpTableau.dll
+/Users/eagboka/Documents/GitHub/CSharpTableau/obj/Debug/net7.0/refint/CSharpTableau.dll
+/Users/eagboka/Documents/GitHub/CSharpTableau/obj/Debug/net7.0/CSharpTableau.pdb
+/Users/eagboka/Documents/GitHub/CSharpTableau/obj/Debug/net7.0/CSharpTableau.genruntimeconfig.cache
+/Users/eagboka/Documents/GitHub/CSharpTableau/obj/Debug/net7.0/ref/CSharpTableau.dll
